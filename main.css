@@ -1,0 +1,23 @@
+body{
+  font-family: 'Montserrat' !important;
+  font-style: normal;
+  font-weight: 400;
+  position: relative;
+  height: 100vh;
+  margin: 0;
+}
+
+.message{
+  position: absolute;
+  top: 30%;
+  left: 10%;
+  font-size: 30px;
+	color: white;
+}
+
+img{
+  display: block;
+  /*display: none;*/
+  width: 100%;
+  object-fit: cover;
+}
